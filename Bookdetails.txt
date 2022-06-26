@@ -1,0 +1,31 @@
+******* LIBRARY********
+******* BOOK DETAILS ********
+
+		******* BOOK DETAILS ********
+
+		Book I.D : 21sw
+		Book Name : c++
+		Book Author : pro
+		Book Subject : prog
+		Book Publisher : lafore
+		Book Year : 2004
+
+
+		******* BOOK DETAILS ********
+
+		Book I.D : 21bsit
+		Book Name : c++
+		Book Author : lafore
+		Book Subject : prog
+		Book Publisher : robert
+		Book Year : 2004
+
+
+		******* BOOK DETAILS ********
+
+		Book I.D : 21cs
+		Book Name : PF
+		Book Author : hammad
+		Book Subject : gaba
+		Book Publisher : gabapub
+		Book Year : 2022
